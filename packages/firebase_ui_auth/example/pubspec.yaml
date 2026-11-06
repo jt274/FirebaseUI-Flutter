@@ -24,9 +24,9 @@ resolution: workspace
 
 dependencies:
   app_tracking_transparency: ^2.0.6
-  cupertino_icons: ^1.0.6
-  firebase_auth: ^6.7.0
-  firebase_core: ^4.15.0
+  cupertino_icons: ^2.0.0
+  firebase_auth: ^7.0.1
+  firebase_core: ^5.1.0
   flutter:
     sdk: flutter
   flutter_localizations:
